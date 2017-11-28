@@ -1,0 +1,32 @@
+[
+ {
+  "firstName": "Anna",
+  "lastName": "Andersson",
+  "birthDate": "1991-05-03",
+  "phone": "040-123456"
+ },
+ {
+  "firstName": "David",
+  "lastName": "Davidsson",
+  "birthDate": "1957-05-07",
+  "phone": "040-191817"
+ },
+ {
+  "firstName": "Emilia",
+  "lastName": "Efraimsdotter",
+  "birthDate": "1942-01-01",
+  "phone": "08-1234567"
+ },
+ {
+  "firstName": "Fredrik",
+  "lastName": "Fransson",
+  "birthDate": "2005-03-08",
+  "phone": "076-1924567"
+ },
+ {
+  "firstName": "Maria",
+  "lastName": "Mårtensson",
+  "birthDate": "1995-05-18",
+  "phone": "0410-123456"
+ }
+]

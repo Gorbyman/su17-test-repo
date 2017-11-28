@@ -1,0 +1,26 @@
+<!-- lägg in i main nånstans
+     js finns i todo-list.js -->
+
+<div class="container">
+        <div class="row">
+          <div class="col-12">
+            <h1 class="mt-3 mb-2">Att-göra-lista</h1>
+          </div>
+        </div>
+        <div class="col-6 col-md-12">
+          <div class="col-8 ml-2 mt-2">
+          <div class="input-group">
+            <span class="input-group-addon">Lägg till i listan:</span>
+            <input type="text" id="newToList" class="form-control" placeholder="Skriv här...">
+          </div>
+          <button type="button" id="removeFirst" class="btn btn-warning mt-2 ml-2 float-right">Ta bort sist!</button>
+          <button type="button" id="remove" class="btn btn-danger mt-2 ml-2 float-right">Ta bort!</button>
+          <button type="button" id="addFirst" class="btn btn-success mt-2 ml-2 float-right">Lägg till först!</button>
+          <button type="button" id="add" class="btn btn-primary mt-2 float-right">Lägg till!</button>
+          <div class="col-8 mt-4">
+            <div id="result" class="alert alert-primary d-none mt-5 text-center" role="alert">
+              <ul class="list-group dogs">
+              </ul>
+            </div>
+          </div>
+        </div>

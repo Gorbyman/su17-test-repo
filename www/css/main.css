@@ -1,0 +1,52 @@
+.list-bottom {
+	list-style: none;
+	padding-bottom: 22px;
+}
+
+h1 {
+	color: #fff;
+}
+
+h1, h4 {
+	font-family: 'Varela Round', sans-serif;
+}
+
+.alert-primary, .btn-danger {
+	background-color: #021026;
+	border-color: #010b1c;
+	color:#fff;
+}
+
+li{
+	color:#000;
+}
+
+ul.todoList, ul.doneList{
+	font-family: 'Indie Flower', cursive;
+	font-size: 1.8em;
+}
+
+.btn-danger:hover {
+	background-color: #091c3d;
+	border-color: #010b1c;
+}
+
+.alert-success {
+	background-color: #05081e;
+	border-color: #05081e;
+	color: #fff;
+}
+
+/* Its online experiment - apsolut */
+
+canvas {
+  display: block;
+   -moz-opacity:0.2; /* For older FF versions */
+   -khtml-opacity:0.2;
+   opacity:0.2;
+   filter:alpha(opacity=20);
+}
+
+body {
+ background:#000 url('https://s22.postimg.org/rwc2acgj5/image.jpg');
+}
